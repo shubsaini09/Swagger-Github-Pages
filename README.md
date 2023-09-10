@@ -1,4 +1,4 @@
-# Swagger-With-Material-Design
+# Swagger-Github-Pages
 
 This repository is an example of how to host Swagger 3.x with Github Pages. We are using the material theme here instead of using the default theme. 
 
